@@ -1,0 +1,7 @@
+Host: 192.168.1.1
+Faixa de portas: 1-500
+Tempo de execução: 4.85 segundos
+
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-22 03:54 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 4.84 seconds
