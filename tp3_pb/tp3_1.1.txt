@@ -1,0 +1,34 @@
+Análise de Desempenho de Busca em Árvore Binária
+==================================================
+
+Parâmetros do Teste:
+- 100 buscas por tamanho de árvore
+- Árvores binárias balanceadas
+
+Resultados:
+------------------------------
+
+Tamanho da Árvore: 100
+Tempo de Busca Sequencial: 0.0000 segundos
+Tempo de Busca Paralela: 0.0188 segundos
+Speedup: 0.00x
+
+Tamanho da Árvore: 500
+Tempo de Busca Sequencial: 0.0000 segundos
+Tempo de Busca Paralela: 0.0232 segundos
+Speedup: 0.00x
+
+Tamanho da Árvore: 1000
+Tempo de Busca Sequencial: 0.0001 segundos
+Tempo de Busca Paralela: 0.0263 segundos
+Speedup: 0.00x
+
+Tamanho da Árvore: 5000
+Tempo de Busca Sequencial: 0.0001 segundos
+Tempo de Busca Paralela: 0.0707 segundos
+Speedup: 0.00x
+
+Tamanho da Árvore: 10000
+Tempo de Busca Sequencial: 0.0001 segundos
+Tempo de Busca Paralela: 0.1281 segundos
+Speedup: 0.00x

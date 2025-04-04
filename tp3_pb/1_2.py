@@ -157,10 +157,10 @@ plt.ylabel('Tempo Médio (s)')
 plt.title('Desempenho de Busca na Árvore Binária de Busca')
 plt.legend()
 plt.grid(True)
-plt.savefig("tp3_1.2.png")  # Salva no diretório atual
+plt.savefig("tp3_1.2.png")
 
 
-with open("tp3_1.2.txt", "w") as f:  # Salva no diretório atual
+with open("tp3_1.2.txt", "w") as f:
    f.write("Tamanho da Árvore\tBusca Sequencial (s)\tBusca Paralela (s)\n")
    for i in range(len(tamanhos_arvore)):
        f.write(f"{tamanhos_arvore[i]}\t{tempos_sequencial[i]:.6f}\t{tempos_paralelo[i]:.6f}\n")

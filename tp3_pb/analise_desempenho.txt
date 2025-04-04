@@ -1,0 +1,18 @@
+Análise de Desempenho - Contagem de Números Primos
+
+Intervalo analisado: 1 a 100000
+Número de processos: 24
+Total de números primos encontrados: 9592
+
+Tempos de Execução:
+Paralelo: 1.13 ± 0.01 segundos
+Sequencial: 0.19 ± 0.01 segundos
+
+Métricas de Desempenho:
+Aceleração: 0.17x
+Eficiência: 0.01
+
+Análise de Escalabilidade:
+Tamanho 10000: Paralelo = 1.08s, Sequencial = 0.01s
+Tamanho 50000: Paralelo = 1.15s, Sequencial = 0.08s
+Tamanho 100000: Paralelo = 1.15s, Sequencial = 0.19s

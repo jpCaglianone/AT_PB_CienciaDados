@@ -110,13 +110,9 @@ class ArvoreBinaria:
        thread_esquerda.start()
        thread_direita.start()
 
-
-       # Aguardando todas as threads terminarem
        for thread in threads:
            thread.join()
 
-
-       # Verificando os resultados das buscas
        return any(resultados)
 
 
@@ -125,7 +121,6 @@ class ArvoreBinaria:
 def criar_arvore_balanceada(tamanho):
    valores = sorted(random.sample(range(1, tamanho * 2), tamanho))
    arvore = ArvoreBinaria()
-
 
    def inserir_no_meio(arr):
        if not arr:
@@ -138,8 +133,6 @@ def criar_arvore_balanceada(tamanho):
 
    inserir_no_meio(valores)
    return arvore, valores
-
-
 
 
 def salvar_resultados(tamanhos_arvore, tempos_sequenciais, tempos_paralelos):
@@ -229,8 +222,6 @@ def realizar_todos_os_testes():
 
 
    salvar_resultados(tamanhos_arvore, resultados_sequenciais, resultados_paralelos)
-
-
 
 
 if __name__ == "__main__":

@@ -1,0 +1,34 @@
+DFS with Path Finding Performance Analysis
+==================================================
+
+Test Parameters:
+- 100 searches per tree size
+- Random tree structure
+
+Results:
+------------------------------
+
+Tree Size: 100
+Sequential Search Time: 0.0006 seconds
+Parallel Search Time: 0.4164 seconds
+Speedup: 0.00x
+
+Tree Size: 500
+Sequential Search Time: 0.0030 seconds
+Parallel Search Time: 2.0047 seconds
+Speedup: 0.00x
+
+Tree Size: 1000
+Sequential Search Time: 0.0062 seconds
+Parallel Search Time: 4.2753 seconds
+Speedup: 0.00x
+
+Tree Size: 2000
+Sequential Search Time: 0.0117 seconds
+Parallel Search Time: 9.1818 seconds
+Speedup: 0.00x
+
+Tree Size: 5000
+Sequential Search Time: 0.0343 seconds
+Parallel Search Time: 26.1092 seconds
+Speedup: 0.00x

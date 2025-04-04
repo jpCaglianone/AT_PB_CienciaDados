@@ -1,0 +1,7 @@
+Resultados dos Testes de Performance
+----------------------------------------
+Quantidade de IPs:   500 | Tempo: 0.00 segundos
+Quantidade de IPs:  1000 | Tempo: 0.00 segundos
+Quantidade de IPs:  2500 | Tempo: 0.01 segundos
+Quantidade de IPs:  5000 | Tempo: 0.02 segundos
+Quantidade de IPs: 10000 | Tempo: 0.04 segundos

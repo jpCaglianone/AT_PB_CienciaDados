@@ -1,0 +1,33 @@
+Análise da Contagem de Números Primos
+
+Intervalo analisado: 1 a 100000
+Número de processos: 24
+Total de números primos encontrados: 9592
+Tempo de execução: 1.11 segundos
+
+Distribuição por pedaço:
+Pedaço 0: 573 primos
+Pedaço 1: 472 primos
+Pedaço 2: 447 primos
+Pedaço 3: 436 primos
+Pedaço 4: 416 primos
+Pedaço 5: 418 primos
+Pedaço 6: 407 primos
+Pedaço 7: 398 primos
+Pedaço 8: 401 primos
+Pedaço 9: 391 primos
+Pedaço 10: 387 primos
+Pedaço 11: 385 primos
+Pedaço 12: 382 primos
+Pedaço 13: 392 primos
+Pedaço 14: 369 primos
+Pedaço 15: 371 primos
+Pedaço 16: 365 primos
+Pedaço 17: 383 primos
+Pedaço 18: 365 primos
+Pedaço 19: 376 primos
+Pedaço 20: 357 primos
+Pedaço 21: 368 primos
+Pedaço 22: 377 primos
+Pedaço 23: 354 primos
+Pedaço 24: 2 primos

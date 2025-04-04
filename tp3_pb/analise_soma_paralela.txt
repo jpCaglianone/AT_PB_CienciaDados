@@ -1,0 +1,7 @@
+Análise da Soma Paralela
+
+Número de processos utilizados: 24
+Soma total: 50000005000000
+Tempo de execução paralela: 1.1758 segundos
+Tempo de execução sequencial: 0.0047 segundos
+Aceleração: 0.00x

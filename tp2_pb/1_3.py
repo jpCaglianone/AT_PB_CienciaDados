@@ -44,7 +44,7 @@ def gerar_grafico():
    num_threads_list = [1, 2, 4, 8, 16]
 
 
-   imagem_path = r'C:\Users\jpCaglianone\Desktop\LEAO.jpg'
+   imagem_path = r'C:\Users\jpCaglianone\Desktop\A.jpg'
    pasta_saida = r'C:\Users\jpCaglianone\Desktop'
 
 
